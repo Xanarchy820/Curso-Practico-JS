@@ -1,0 +1,82 @@
+¿Qué es una variable y para qué sirve?
+
+R// Una variable es un almacenamiento en memoria con un nombre propio que nos sirve para almacenar cualquier dato y poder usarlo mas adelante.
+
+¿Cuál es la diferencia entre declarar e inicializar una variable?
+
+R// Cuando se declara una variable se esta creando ese espacio en memoria, indicando que tipo de variable es y asignandole un nombre propio, la diferencia es que cuando se inicializa una variable se esta asignando un valor de cualquier tipo de dato a una variable ya existente.
+
+¿Cuál es la diferencia entre sumar números y concatenar strings?
+
+R// Cuando se suman números se realiza una operación  de adición matemática común y corriente, ejemplo 2 + 2 = 4, la diferencia con concatenar strings es que estos no son numeros numéricos, son numeros representandos como un texto, la operación de concatenación permite juntar un string con otro en una misma cadena de caracteres, ejemplo "2" + "2" = "22".
+
+¿Cuál operador me permite sumar o concatenar?
+
+R// El operador "+".
+
+Determina el nombre y tipo de dato para almacenar en variables la siguiente información:
+
+Nombre - String
+Apellido - String
+Nombre de usuario en Platzi - String
+Edad - Numero entero
+Correo electrónico - String
+Mayor de edad - Booleano
+Dinero ahorrado - Numero decimal
+Deudas - Numero decimal
+
+¿Qué es una función?
+
+R// Es un bloque de código que realiza diversas acciones para devolver un resultado final, las funciones pueden utilizarse múltiples veces llamándolas unicamente por su nombre.
+
+¿Cuándo me sirve usar una función en mi código?
+
+R// Cuando deseamos reutilizar código realizando múltiples veces una acción, con la función basta con escribirlo una sola vez.
+
+¿Cuál es la diferencia entre parámetros y argumentos de una función?
+
+R// Los parámetros son los nombres que se epecifican en una función dentro de los paréntesis cuando se esta definiendo, estos hacen referencia al valor que se le pasa a la función cuando es llamada, mientras que los argumentos son los valores reales que se colocan en los paréntesis cuando se esta llamando la función, estos son los datos que reemplazan a los parametros cuando se ejecuta la función.
+
+¿Qué es un condicional?
+
+R// Es una estructura que permite realizar o no una acción en un bloque de código dependiendo si una condicion resulta ser verdadera o falsa
+
+¿Qué tipos de condicionales existen en JavaScript y cuáles son sus diferencias?
+
+R// Existen if/else y switch, la diferencia entre ambas es que if/else evalua una condicon específica que devuelve un resultado ya sea verdadero o falso (Booleano), mientras que switch evalua el valor de un dato o variable, y este realizara multiples acciones dependiendo el valor del dato pasado.
+
+¿Puedo combinar funciones y condicionales?
+
+R// Si, una función puede contener multiples estructuras dentro de su ejecución.
+
+¿Qué es un ciclo?
+
+R// Es una estructura repetitiva que ejecuta una serie de instrucciones un numero determinado de veces que se le indique o mientras se cumpla una condicion, este ayuda a repetir un bloque de código muchas veces con solo escribirlo una vez.
+
+¿Qué tipos de ciclos existen en JavaScript?
+
+R// For, for of, for in, while y do while
+
+¿Qué es un ciclo infinito y por qué es un problema?
+
+R// Es cuando un ciclo repite su bloque de código infinitas veces al no controlar su iterador, puede ser un problema porque nunca termina de ejecutarse y esto puede ocacionar que el programa crashee.
+
+¿Puedo mezclar ciclos y condicionales?
+
+R// Si, pueden existir condicionales en la ejecución de un bloque de código de un ciclo.
+
+¿Qué es un array?
+
+R// Es una estructura de datos que almacena uno o más elementos del mismo tipo y se pueden acceder a ellos por medio de un indice.
+
+¿Qué es un objeto?
+
+R// Es una estructura de datos que almacena uno o mas elementos de diversos tipos, se pueden acceder a ellos mediante una propiedad.
+
+¿Cuándo es mejor usar objetos o arrays?
+
+R// Ninguno es mejor que otro, el uso dependera de las necesidades que se soliciten, el objeto es mejor usarlo cuando se quieren almacenar datos de diversos tipos en una sola estructura.
+
+¿Puedo mezclar arrays con objetos o incluso objetos con arrays?
+
+R// Si, es posible.
